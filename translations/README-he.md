@@ -24,7 +24,7 @@
 * [Русский](translations/README-ru.md)
 * [Tiếng Việt](translations/README-vn.md)
 * [فارسی](translations/README-fa.md)
-* [עברית](translations/README-he.md)
+* [עברית](README-he.md)
 
 ## מה זה ביטוי רגולרי?
 
